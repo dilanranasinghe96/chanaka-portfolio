@@ -67,7 +67,7 @@ const Hero = () => {
           className="flex flex-row items-center gap-6 my-4 md:mb-0"
         >
             <motion.button
-            onClick={()=>{downloadFileAtURL('http://localhost:3000/chanaka_CV.pdf')}}
+            onClick={()=>{downloadFileAtURL('https://chanaka-portfolio-54691.web.app/chanaka_CV.pdf')}}
             whileHover={{scale: 1.05, boxShadow: "0px 0px 8px rgba(0, 0, 0, 0.3)"}}
             className="z-10 p-4 font-bold text-gray-200 border rounded cursor-pointer md:w-auto-purple-500-xl"
             >

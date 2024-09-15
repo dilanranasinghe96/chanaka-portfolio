@@ -8,8 +8,8 @@
     ],
     "rewrites": [
       {
-        "source": "**",
-        "destination": "/index.html"
+        "source": "/chanaka_CV.pdf",
+        "destination": "/chanaka_CV.pdf"
       }
     ]
   }
