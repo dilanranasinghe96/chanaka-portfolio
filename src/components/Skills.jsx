@@ -25,7 +25,7 @@ function Skills() {
             <br></br>
             <h3 className='mb-5 text-4xl font-semibold text-center p-4'>About <span>Me</span></h3>
             <p className='w-11/12 mx-auto leading-7 text-justify'>
-            I’m Chanaka Bandara, a skilled Video Editor, Graphic Designer, and Social Media Manager. Currently, I work as a Video Editor at Voice of Asia Media Network (Siyatha TV News Room), where I create engaging visuals and content. My expertise in design and digital strategy helps me deliver impactful media experiences and drive brand engagement.
+            I'm Chanaka Bandara, a skilled Video Editor, Graphic Designer, and Social Media Manager. Currently, I work as a <a href='https://www.facebook.com/didulabuddhist/' className='text-purple-400 hover:text-purple-300 underline' target="_blank" rel="noopener noreferrer">Social Media Manager at Didula Media Network</a>, where I strategize and manage digital campaigns to enhance brand visibility and engagement. Previously, I worked as a Video Editor at Voice of Asia Media Network (Siyatha TV News Room), creating engaging visuals and content. My expertise in design, video editing, and digital strategy enables me to deliver impactful media experiences and drive brand growth.
             </p>
 
             {/* Skills Section */}
